@@ -10,3 +10,7 @@ The project is made with the Gradle Wrapper, so to run the application, simply e
 ```
 
 in the project's root.
+
+## Contributors
+
+Vincent Ruijgrok.
